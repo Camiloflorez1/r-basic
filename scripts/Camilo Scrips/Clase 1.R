@@ -13,4 +13,7 @@
 # se unsa "." para decimales y "," para separar
 
 
+# usar "Print(x, n)" para mostrar cifras cecimales ej (Print(sqrt(2, 3) = 1.444
+# Round(x, n) Redondear n= numero de decimales a redondear
+
 
